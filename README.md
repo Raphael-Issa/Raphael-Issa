@@ -1,7 +1,12 @@
-# Olá, mundo! Eu sou o Raphael Issa 👋
-<p align="left">
+<div align="center">
+
+<h1>Olá, mundo! Eu sou o Raphael Issa 👋</h1>
+
+<p>
   <img src="https://img.shields.io/badge/Status-Desenvolvendo-green?style=for-the-badge" alt="Status" />
 </p>
+
+</div>
 
 ### 👤 Sobre Mim
 ---
