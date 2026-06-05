@@ -43,7 +43,8 @@ Sou um desenvolvedor em formação focado em resolver problemas. Atualmente trab
 
 <p align="left">
   <a href="https://github.com/Raphael-Issa" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
   <a href="https://linkedin.com/in/raphael-issae-s2" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
