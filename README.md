@@ -33,8 +33,9 @@ Sou um desenvolvedor em formação focado em resolver problemas. Atualmente trab
 ### 📊 Minhas Estatísticas
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=Raphael-Issa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Raphael-Issa&layout=compact&theme=dracula&langs_count=7&include_all_commits=true" alt="Linguagens mais usadas" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Raphael-Issa&layout=compact&theme=gotham&include_all_commits=true&langs_count=5" alt="Linguagens mais usadas" />
+
+  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=Raphael-Issa&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </p>
 
 ---
